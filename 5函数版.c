@@ -4,6 +4,7 @@
 
 #define N 10
 // 顺序查找算法
+
 int ser(int arr[], int Num)
 {
     for (int i = 0; i < N; i++)
