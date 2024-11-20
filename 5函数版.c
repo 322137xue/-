@@ -3,7 +3,6 @@
 #include <time.h>
 
 #define N 10
-
 // 顺序查找算法
 int ser(int arr[], int Num)
 {
